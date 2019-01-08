@@ -1,4 +1,4 @@
-# SatoshiPay Stellar infrastructure
+# :rocket: SatoshiPay Stellar infrastructure
 
 ## Public network
 
