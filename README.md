@@ -1,5 +1,10 @@
 # :rocket: SatoshiPay Stellar infrastructure
 
+## Contact
+
+* Email: stellar@satoshipay.io
+* Keybase: andrenarchy
+
 ## Public network
 
 ### Global Horizon
