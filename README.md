@@ -1,5 +1,7 @@
 # :rocket: SatoshiPay Stellar infrastructure
 
+Here you can find the latest information about the SatoshiPay Stellar infrastructure like validator nodes, history archives, and Horizon servers.
+
 ## Contact
 
 * Email: stellar@satoshipay.io
